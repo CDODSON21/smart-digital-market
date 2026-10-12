@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cdodson21.github.io/smart-digital-market/sitemap.xml
